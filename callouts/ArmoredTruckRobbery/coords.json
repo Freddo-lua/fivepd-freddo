@@ -1,0 +1,174 @@
+{
+  "Start_Coords": [
+    {
+      "X": -191.27,
+      "Y": -161.75,
+      "Z": 43.23,
+      "W": 140,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": -671.87,
+      "Y": -228.19,
+      "Z": 37.06,
+      "W": 95.9,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": 221.89,
+      "Y": 221.69,
+      "Z": 105.43,
+      "W": 340.32,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": -152.72,
+      "Y": 276.09,
+      "Z": 93.9,
+      "W": 96.1,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": -556.17,
+      "Y": 302.24,
+      "Z": 83.22,
+      "W": 265.83,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": -1297.49,
+      "Y": -652.30,
+      "Z": 26.38,
+      "W": 306.18,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": -1054.26,
+      "Y": -1396.49,
+      "Z": 5.43,
+      "W": 82.98,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": 915.03,
+      "Y": 47.62,
+      "Z": 80.9,
+      "W": 147.66,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": -203.68,
+      "Y": -2004.88,
+      "Z": 27.62,
+      "W": 263.46,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": 428.04,
+      "Y": -642.87,
+      "Z": 28.5,
+      "W": 174.68,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": -11.39,
+      "Y": -740.69,
+      "Z": 44.16,
+      "W": 66.68,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  ],
+  "End_Coords": [
+    {
+      "X": -487.39,
+      "Y": -613.8,
+      "Z": 24.92,
+      "W": 0,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": 93.39,
+      "Y": -351.54,
+      "Z": 42.22,
+      "W": 0,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": -342.51,
+      "Y": -1073,
+      "Z": 23.03,
+      "W": 0,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": -30.78,
+      "Y": -1233.96,
+      "Z": 29.34,
+      "W": 0,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": -1573.28,
+      "Y": -897.15,
+      "Z": 9.98,
+      "W": 0,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": -1225.31,
+      "Y": -697.46,
+      "Z": 23,
+      "W": 0,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": -358.28,
+      "Y": -90.47,
+      "Z": 45.63,
+      "W": 0,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": -136.69,
+      "Y": -23.38,
+      "Z": 58.05,
+      "W": 0,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": 702.61,
+      "Y": -288.97,
+      "Z": 59.19,
+      "W": 0,
+      "IsNormalized": false,
+      "IsZero": false
+    },
+    {
+      "X": 416.28,
+      "Y": -1284.48,
+      "Z": 30.27,
+      "W": 0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  ]
+}
