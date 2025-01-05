@@ -43,6 +43,7 @@ client_scripts {
 	'./callouts/**/*.net.dll',
 	'./plugins/*.net.dll',
 	'./plugins/**/*.net.dll'
+	'./plugins/**/*.json'
 }
 server_scripts {
     './System.Net.dll',
